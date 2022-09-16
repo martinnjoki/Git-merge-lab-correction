@@ -1,1 +1,0 @@
-# Git-merge-lab-correction
